@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Evolventa-Regular;
+  src: url("./Components/fonts/Evolventa-Regular.otf");
+}
+@font-face {
+  font-family: ARIAL;
+  src: url("./Components/fonts/ARIAL.TTF");
+}
